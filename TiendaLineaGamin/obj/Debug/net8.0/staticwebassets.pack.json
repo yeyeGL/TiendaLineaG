@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\obj\\Debug\\net8.0\\compressed\\mqf1k7ce1e.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TiendaLineaGamin.styles.css",
+      "PackagePath": "staticwebassets\\TiendaLineaGamin.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\gyeis\\OneDrive\\Escritorio\\TiendaLineaG\\TiendaLineaGamin\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TiendaLineaGamin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TiendaLineaGamin.props",
+      "PackagePath": "build\\TiendaLineaGamin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TiendaLineaGamin.props",
+      "PackagePath": "buildMultiTargeting\\TiendaLineaGamin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TiendaLineaGamin.props",
+      "PackagePath": "buildTransitive\\TiendaLineaGamin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

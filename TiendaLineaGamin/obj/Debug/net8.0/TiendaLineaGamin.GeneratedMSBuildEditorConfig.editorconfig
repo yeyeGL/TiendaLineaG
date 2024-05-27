@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TiendaLineaGamin
+build_property.RootNamespace = TiendaLineaGamin
+build_property.ProjectDir = C:\Users\gyeis\OneDrive\Escritorio\TiendaLineaG\TiendaLineaGamin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gyeis\OneDrive\Escritorio\TiendaLineaG\TiendaLineaGamin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Components/StaticComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0aWNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Pages/ApiConsumerPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBpQ29uc3VtZXJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Pages/InternalComponentsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50ZXJuYWxDb21wb25lbnRzUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Components/ApiResultComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcGlSZXN1bHRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hgzunketi9
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Components/InternalComponent1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnRlcm5hbENvbXBvbmVudDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-giznkwdeo8
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Components/InternalComponent2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnRlcm5hbENvbXBvbmVudDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yb85hun7gj
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e38e35nsd9
+
+[C:/Users/gyeis/OneDrive/Escritorio/TiendaLineaG/TiendaLineaGamin/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7dzh7gyh8m

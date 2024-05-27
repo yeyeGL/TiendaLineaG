@@ -1,0 +1,19 @@
+<link href="apiconsumer.razor.css" rel="stylesheet" />
+@code {
+    private List<string> categorias = new List<string> { 
+        "Men's Clothing", 
+        "Jewelery", 
+        "Electronics", 
+        "Women's Clothing"
+    };
+}
+
+<div>
+    <h4>Tienda en linea el Gamin</h4>
+    <ul>
+        @foreach (var category in categorias)
+        {
+            <li>@category</li>
+        }
+    </ul>
+</div>
